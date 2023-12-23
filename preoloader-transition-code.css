@@ -4,14 +4,14 @@
  * W. https://svgartista.net
  **************************************************/
 
-svg .svg-elem-1 {
+svg .cls-6 svg-elem-1 {
   stroke-dashoffset: 2990.4765625px;
   stroke-dasharray: 2990.4765625px;
   transition: stroke-dashoffset 1s cubic-bezier(0.47, 0, 0.745, 0.715) 0s,
                 fill 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.8s;
 }
 
-svg.active .svg-elem-1 {
+svg.active .cls-6 svg-elem-1 {
   stroke-dashoffset: 0;
 }
 
